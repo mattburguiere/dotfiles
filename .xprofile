@@ -1,2 +1,6 @@
-export MAKEFLAGS='-j 4'
+#
+# ~/.xprofile
+#
+
+# Allow X access to all local users
 xhost +local:
